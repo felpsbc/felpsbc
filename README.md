@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Felipe Barcelos | Olá, eu sou o Felipe Barcelos
 
 🔐 **Computer Science Student | Cybersecurity & Pentest Enthusiast**
+
 🎓 **Graduando em Ciência da Computação - CEUB(Brasília - DF)** 
 📍 Brasil
 
