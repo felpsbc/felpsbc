@@ -28,16 +28,6 @@ Sou estudante de **Ciência da Computação**, com foco acadêmico e prático em
 
 ---
 
-## 📊 GitHub Statistics | Estatísticas do GitHub
-
----
-
-## 🧠 Recent Activity | Atividade Recente
-
-> ⏱️ Automatically updated using GitHub Actions
-
----
-
 ## 🧪 Featured Projects | Projetos em Destaque
 
 * 🔐 **Project Aegis** – Security analysis and risk assessment project
