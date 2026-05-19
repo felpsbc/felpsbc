@@ -46,13 +46,8 @@ Hands-on full-stack experience means I don't just find bugs — I can fix them. 
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>BSCP</strong><br>
-      <em>Burp Suite Certified Practitioner</em><br>
-      <sub>PortSwigger</sub>
-    </td>
-    <td align="center" width="50%">
       <strong>CPTS</strong><br>
-      <em>Certified Penetration Testing Specialist</em><br>
+      <em>Certified Penetration Testing Specialist [in progress]</em><br>
       <sub>HackTheBox</sub>
     </td>
   </tr>
