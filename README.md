@@ -45,9 +45,7 @@ Investigating patterns of insecurity introduced by AI coding assistants (ChatGPT
 ### 🔍 CVE Intelligence Dashboard
 A vulnerability tracking platform that consumes the **National Vulnerability Database (NVD)** API, enriches CVE data with CVSS scoring, and implements prioritization logic — replicating real-world vulnerability management workflows.
 > `Python` · `NVD API` · `CVSS`
-
-> 💡 *Currently rewriting this project's README for clarity and adding more security-focused features. Stay tuned.*
-
+> 
 ---
 
 ## 🎓 Certifications & Training
