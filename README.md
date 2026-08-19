@@ -97,15 +97,6 @@ A vulnerability tracking platform that consumes the **National Vulnerability Dat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felpsbc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbc&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💬 Let's Connect
 
 Open to conversations about **offensive security**, **application security**, **CTFs**, or **AI security research**. I'm also actively looking for **internship and junior opportunities** in pentesting, AppSec, and red team, including remote international roles.
