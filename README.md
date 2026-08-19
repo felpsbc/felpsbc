@@ -102,7 +102,6 @@ A vulnerability tracking platform that consumes the **National Vulnerability Dat
 Open to conversations about **offensive security**, **application security**, **CTFs**, or **AI security research**. I'm also actively looking for **new opportunities** in pentesting, AppSec, and red team, including remote international roles.
 
 <p align="center">
-  <a href="mailto:fbcarvalho2004@gmail.com">📧 Email</a> ·
   <a href="https://www.linkedin.com/in/felipe-barcelos-5b0637321/">💼 LinkedIn</a>
 </p>
 
